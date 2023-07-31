@@ -1,0 +1,29 @@
+.img1{
+  width:200px;
+  height: 200px;
+  float: left;
+}
+.img2{
+  width: 200px;
+  height: 200px;
+  float:right;
+}
+.img3{
+  width:200px;
+  height: 200px;
+  float: left;
+}
+.img4{
+  width: 200px;
+  height: 200px;
+  float:right;
+}
+.video{
+  width:500px;
+  margin-top: 10%;
+  margin-left: 200px;
+  margin-bottom: 10%;
+}
+*{
+  background-color: coral;
+}
